@@ -6,7 +6,6 @@ import java.util.ArrayList;
 
 /**
 *
-* @author Nicolas bueno
 */
 public class ControllerUsuario {
 
