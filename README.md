@@ -22,7 +22,7 @@ Projeto de sistema para gestão de vendas e controle de estoque.
 ---
 
 <p>-Tela Principal</p>
-<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/principal.png"/>
+<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/principal.png](https://github.com/Ingriidd/Vendas-Online/blob/main/usuario.png)"/>
 
 <p>-Tela cadastros de fornecedores</p>
 <img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/fornecedores.png"/>
