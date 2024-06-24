@@ -14,7 +14,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nicolas
  */
 public class DAOProdutosVendasProdutos extends ConexaoMysql {
 
