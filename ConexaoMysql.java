@@ -12,7 +12,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Nicolas
+
  */
 public class ConexaoMysql {
     private boolean status = false;
