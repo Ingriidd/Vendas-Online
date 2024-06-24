@@ -6,7 +6,6 @@ import java.util.ArrayList;
 
 /**
 *
-* @author nicolas bueno
 */
 public class ControllerFornecedor {
 
