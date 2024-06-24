@@ -13,7 +13,6 @@ import java.util.Date;
 
 /**
  *
- * @author Nicolas
  */
 public class ControllerVenda {
     
