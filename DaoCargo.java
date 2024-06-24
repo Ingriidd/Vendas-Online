@@ -9,8 +9,7 @@ import br.com.vendasnb.model.ModelCargo;
 import java.util.ArrayList;
 
 /**
- *
- * @author Nicolas
+ 
  */
 public class DaoCargo extends ConexaoMysql {
     
