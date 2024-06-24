@@ -6,7 +6,6 @@ package br.com.vendasnb.util;
 
 /**
  *
- * @author Nicolas
  */
 public class Formatador {
     
