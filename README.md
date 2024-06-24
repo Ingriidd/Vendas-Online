@@ -10,7 +10,7 @@ Projeto de sistema para gestão de vendas e controle de estoque.
 
 ### Introdução
 <p>Será apresentado um projeto de software para gestão de vendas e controle de estoque VendasNB.</p>
-<p>Contruido com padrão Java MVC</p>
+<p>Contruido com padrão Java MVC (utilizado em muitos projetos devido à arquitetura que possui, o que possibilita a divisão do projeto em camadas muito bem definidas) </p>
 
 ### Descrição
 <p>- Com um software para vendas e controle de estoque, você pode reunir informações importantes no mesmo lugar.</p>
