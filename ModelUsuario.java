@@ -1,7 +1,6 @@
 package br.com.vendasnb.model;
 /**
 *
-* @author Nicolas bueno
 */
 public class ModelUsuario {
 
