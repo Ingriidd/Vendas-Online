@@ -6,7 +6,6 @@ import br.com.vendasnb.model.ModelCargo;
 import java.util.ArrayList;
 /**
 *
-* @author Nicolas bueno
 */
 public class DAOUsuario extends ConexaoMysql {
     
