@@ -5,7 +5,6 @@ import br.com.vendasnb.conexoes.ConexaoMysql;
 import java.util.ArrayList;
 /**
 *
-* @author nicolas bueno
 */
 public class DAOFornecedor extends ConexaoMysql {
 
