@@ -1,7 +1,6 @@
 package br.com.vendasnb.model;
 /**
 *
-* @author Nicolas
 */
 public class ModelFormaPagamento {
 
