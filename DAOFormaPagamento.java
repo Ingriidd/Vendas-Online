@@ -5,7 +5,6 @@ import br.com.vendasnb.model.ModelFormaPagamento;
 import java.util.ArrayList;
 /**
 *
-* @author Nicolas
 */
 public class DAOFormaPagamento extends ConexaoMysql {
 
