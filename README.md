@@ -20,8 +20,6 @@ Projeto de sistema para gestão de vendas e controle de estoque, com implemenç�
 
 ### Views
 ---
-<p>-Tela Login</p>
-<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/login.png"/>
 
 <p>-Tela Principal</p>
 <img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/principal.png"/>
