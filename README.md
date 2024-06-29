@@ -22,26 +22,38 @@ Projeto de sistema para gestão de vendas e controle de estoque.
 ---
 
 <p>-Tela Principal</p>
-<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/principal.png](https://github.com/Ingriidd/Vendas-Online/blob/main/usuario.png)"/>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/principal.png"/>
 
 <p>-Tela cadastros de fornecedores</p>
-<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/fornecedores.png"/>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/fornecedores.png"/>
 
 <p>-Tela cadastros de cargos</p>
-<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/cargos.png"/>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/cargos.png"/>
 
 <p>-Tela cadastros de usuários</p>
-<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/usuario.png"/>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/usuario.png"/>
 
 <p>-Tela cadastro de produtos</p>
-<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/produtos.png"/>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/produtos.png"/>
 
 <p>-Tela cadastro de vendas</p>
-<img height="450em" src="https://raw.githubusercontent.com/Ingriid/vendasNB/main/imagens_software/vendas.png"/>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/vendas.png"/><p>-Tela Principal</p>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/principal.png"/>
 
-<h4 align="center"> 
-	
-</h4>
+<p>-Tela cadastros de fornecedores</p>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/fornecedores.png"/>
+
+<p>-Tela cadastros de cargos</p>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/cargos.png"/>
+
+<p>-Tela cadastros de usuários</p>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/usuario.png"/>
+
+<p>-Tela cadastro de produtos</p>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/produtos.png"/>
+
+<p>-Tela cadastro de vendas</p>
+<img height="450em" src="https://raw.githubusercontent.com/Nicolas-Bueno/vendasNB/main/imagens_software/vendas.png"/>
 
 ### Tecnologias 🛠
 
